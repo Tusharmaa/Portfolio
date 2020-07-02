@@ -12,7 +12,6 @@ body {
   height: 80vh;
   animation: hero 10s linear infinite;
   color: white;
-  filter: blur(0.2px);
   z-index: -1;
 }
 
