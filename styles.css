@@ -97,11 +97,11 @@ body {
   height: 80vh;
   width: 100%;
 }
-.features-opacity{
-  /* background-color: transparent; */
+ /*.features-opacity{
+  background-color: transparent;
   opacity: .8;
   text-align: center;
-}
+} */
 .row-padding{
   padding: 11%;
 }
