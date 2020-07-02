@@ -96,8 +96,6 @@ body {
   background-size: cover;
   height: 80vh;
   width: 100%;
-  /* filter: blur(1.5px);
-  -webkit-filter: blur(1.5px) */
 }
 .features-opacity{
   /* background-color: transparent; */
