@@ -30,7 +30,6 @@ body {
   font-family: "Poppins";
   margin-top: 150px;
   font-size: 60px;
-  opacity: 0.9;
   z-index: 1;
 
 
@@ -41,7 +40,6 @@ body {
   font-weight: bold;
   font-family: "Poppins";
   font-size: 23px;
-  opacity: 1;
 }
 
 .about-para1a {
